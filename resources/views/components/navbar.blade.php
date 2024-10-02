@@ -3,7 +3,7 @@
         <div class="col-lg">
             <ul class="nav nav-pills mb-3 d-flex" id="pills-tab" role="tablist">
                 <li class="nav-item" role="presentation">
-                    <a class="nav-link active" data-bs-toggle="pill" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Home</a>
+                    <a class="nav-link active" data-bs-toggle="pill" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Homepage</a>
                 </li>
                 <li class="nav-item" role="presentation">
                     <a class="nav-link" data-bs-toggle="pill" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Shop</a>
